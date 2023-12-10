@@ -1,0 +1,20 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Executables
+*.exe
+
+# Build directory
+build/
+
+# Dependency directories
+dependencies/
+
+# IDE specific files
+.vscode/
